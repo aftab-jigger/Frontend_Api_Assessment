@@ -1,4 +1,4 @@
-* {
+/* * {
   box-sizing: border-box;
 }
 
@@ -24,4 +24,9 @@ body {
 
 .list-group {
   width: 100%;
+} */
+
+#back-btn {
+  float: right;
+  margin: 0;
 }
